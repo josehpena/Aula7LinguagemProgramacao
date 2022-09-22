@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\bin\Debug\Aula7LinguagemProgramacao.exe.config
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\bin\Debug\Aula7LinguagemProgramacao.exe
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\bin\Debug\Aula7LinguagemProgramacao.pdb
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\obj\Debug\Aula7LinguagemProgramacao.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\obj\Debug\Aula7LinguagemProgramacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\obj\Debug\Aula7LinguagemProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\obj\Debug\Aula7LinguagemProgramacao.exe
+C:\Users\Aluno\source\repos\Aula7LinguagemProgramacao\Aula7LinguagemProgramacao\obj\Debug\Aula7LinguagemProgramacao.pdb
